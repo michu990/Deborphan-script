@@ -4,4 +4,4 @@ Simple script in bash to remove orphaned packages using [deborphan](https://pkgs
 
 * ```cd``` to the directory that contains the script.
 * Add executable permissions by ```chmod a+x deborphan-script.sh```
-* type in cli ```./deborphan-script.sh```
+* Type in CLI ```./deborphan-script.sh```
